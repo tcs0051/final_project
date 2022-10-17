@@ -4,10 +4,10 @@
 # Description: This program helps students to make a schedule for their semester classes
 
 # Functions:
-# logIn (): this allows you to log into your account
-# addClass (): this allows you to add classes to your schedule
-# displaySchedule (): this displays your schedule after every time a new class is added
-# addAnother (): this ask if you want to add another class or if your schedule is completed
+logIn (): this allows you to log into your account
+addClass (): this allows you to add classes to your schedule
+displaySchedule (): this displays your schedule after every time a new class is added
+addAnother (): this ask if you want to add another class or if your schedule is completed
 
 # Say:
 What is your user/password?, 
